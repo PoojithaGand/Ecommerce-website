@@ -60,25 +60,9 @@ Super privileged admins are the topmost in the hierarchy. They have the followin
 
 This is privilege is ideal for the owner(s) of the bussiness.
 
-**2. Moderate privileged admin**
-Moderate privileged admins comes below Super privileged admins. They have the following permissions:
 
-- [ ] Can view, create, update, and delete admin users.
-- [x] Can view, create, update, and delete products.
-- [x] Can view orders and update their status.
-- [x] Can delete orders.
 
-This is privilege is ideal for the manager(s).
 
-**3. Low privileged admin**
-Low privileged admins are the lowermost in the hierarchy and have the least amount of privileges. The have the following permission:
-
-- [ ] Can view, create, update, and delete admin users.
-- [ ] Can view, create, update, and delete products.
-- [x] Can view orders and update their status.
-- [ ] Can delete orders.
-
-This is privilege is ideal for the delivery-agent(s).
 
 **Here is a table dipicting the admin privileges for better clarity**
 
@@ -120,34 +104,7 @@ This is privilege is ideal for the delivery-agent(s).
     <td>✔</td>
     <td>✔</td>
   </tr>
-  <tr>
-    <td><b>Moderate</b></td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-  </tr>
-  <tr>
-    <td><b>Low</b></td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>-</td>
-  </tr>
+  
 </tbody>
 </table>
 
@@ -168,7 +125,7 @@ This is privilege is ideal for the delivery-agent(s).
 2. [Chakra-ui](https://chakra-ui.com/)
 3. [React-icons](https://react-icons.github.io/react-icons/)
 
-#### [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
+#### [Backend](https://github.com/poo001/tomper-wear-ecommerce-backend)
 
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](https://expressjs.com/)
@@ -211,9 +168,7 @@ This is privilege is ideal for the delivery-agent(s).
 
 | **Username**  | **E-mail**                   | **Password**     |
 | ------------- | ---------------------------- | ---------------- |
-| Test Super    | test.super@tomperwear.com    | testsuper1212    |
-| Test Moderate | test.moderate@tomperwear.com | testmoderate1212 |
-| Test Low      | test.low@tomperwear.com      | testlow1212      |
+| Test Super    | test.super@tomperwear.com    | testsuper1212    ||
 
 NOTE: These are just for testing purpose. Please don't:
 
