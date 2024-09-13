@@ -226,7 +226,7 @@ For testing out things, you can create a new product, try out things and after t
 
 ## 😎 Team Members
 
-1. Varun Kumar Tiwar - 2020IMT-112
+1. poojitha
 
 <br>
 <br>
