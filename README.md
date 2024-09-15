@@ -48,7 +48,7 @@ Users shopping through this platform enjoys following features:
 
 #### Admin
 
-The admin panel of TomperWear contains three classes of admins:
+The admin panel of TomperWear contains one classes of admins:
 
 **1. Super privileged admin**
 Super privileged admins are the topmost in the hierarchy. They have the following permissions:
