@@ -1,20 +1,4 @@
 <p align='center'>
-<img src='./src/assets/logo.svg'  width='25%'>
-</p>
-<p align='center'>
-<b>E-commerce web-application for selling clothing essentials</b>
-</p>
-<p align='center'>
-<a href='https://tomper-wear.netlify.app/' target='_blank'>tomper-wear-admin.netlify.app</a>
-</p>
-
----
-
-<p align='center'>
-This is the Admin dashboard of TomperWear build with MERN stack and deployed with <a href='https://www.netlify.com/' target='_blank'>Netlify</a>
-</p>
-
-<p align='center'>
 <img src='./assets/dpmain.png'>
 </p>
 <p align='center'>
