@@ -17,6 +17,7 @@ This is the Admin dashboard of TomperWear build with MERN stack and deployed wit
 <p align='center'>
 <img src='./assets/dpmain.png'>
 </p>
+
 ## 📷 Link to [Screenshots](./SCREENSHOTS.md)
 
 ## 🧾 Description
