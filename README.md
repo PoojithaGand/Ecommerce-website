@@ -17,9 +17,6 @@ This is the Admin dashboard of TomperWear build with MERN stack and deployed wit
 <p align='center'>
 <img src='./assets/dpmain.png'>
 </p>
-
-## 🚀 Link to [Client](https://github.com/varunKT001/tomper-wear-ecommerce), [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
-
 ## 📷 Link to [Screenshots](./SCREENSHOTS.md)
 ## 🧾 Description
 
