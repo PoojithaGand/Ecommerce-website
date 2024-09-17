@@ -18,8 +18,8 @@ This is the Admin dashboard of TomperWear build with MERN stack and deployed wit
 <img src='./assets/dpmain.png'>
 </p>
 ## 📷 Link to [Screenshots](./SCREENSHOTS.md)
-## 🧾 Description
 
+## 🧾 Description
 TomperWear is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.
 
 ## ✨ Features
