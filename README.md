@@ -1,7 +1,4 @@
 <p align='center'>
-<img src='./assets/dpmain.png'>
-</p>
-<p align='center'>
 <img src='./src/assets/logo.svg'  width='25%'>
 </p>
 <p align='center'>
