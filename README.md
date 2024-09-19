@@ -114,13 +114,13 @@ This is privilege is ideal for the owner(s) of the bussiness.
 5. [Stripe](https://stripe.com/)
 6. [Formspree](https://formspree.io/)
 
-#### [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin)
+#### [Admin panel](https://github.com/poojitha/tomper-wear-ecommerce-admin)
 
 1. [React.js](https://reactjs.org/)
 2. [Chakra-ui](https://chakra-ui.com/)
 3. [React-icons](https://react-icons.github.io/react-icons/)
 
-#### [Backend](https://github.com/poo001/tomper-wear-ecommerce-backend)
+#### [Backend](https://github.com/poojitha/tomper-wear-ecommerce-backend)
 
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](https://expressjs.com/)
