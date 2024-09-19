@@ -105,7 +105,7 @@ This is privilege is ideal for the owner(s) of the bussiness.
 
 ## ⚙ Tools and Technologies used
 
-#### [Client](https://github.com/varunKT001/tomper-wear-ecommerce)
+#### [Client](https://github.com/poojitha/tomper-wear-ecommerce)
 
 1. [React.js](https://reactjs.org/)
 2. [React-icons](https://react-icons.github.io/react-icons/)
