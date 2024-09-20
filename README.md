@@ -18,9 +18,14 @@ This is the frontend of TomperWear build with MERN stack and deployed with <a hr
 <img src='./assets/dpmain.png'>
 </p>
 
+## 🚀 Link to [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin), [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
+
 ## 📷 Link to [Screenshots](./SCREENSHOTS.md)
 
+## 🎥 Link to [Video demo](https://youtu.be/5oGqxtSN0jY)
+
 ## 🧾 Description
+
 TomperWear is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.
 
 ## ✨ Features
@@ -43,7 +48,7 @@ Users shopping through this platform enjoys following features:
 
 #### Admin
 
-The admin panel of TomperWear contains one classes of admins:
+The admin panel of TomperWear contains three classes of admins:
 
 **1. Super privileged admin**
 Super privileged admins are the topmost in the hierarchy. They have the following permissions:
@@ -55,9 +60,25 @@ Super privileged admins are the topmost in the hierarchy. They have the followin
 
 This is privilege is ideal for the owner(s) of the bussiness.
 
+**2. Moderate privileged admin**
+Moderate privileged admins comes below Super privileged admins. They have the following permissions:
 
+- [ ] Can view, create, update, and delete admin users.
+- [x] Can view, create, update, and delete products.
+- [x] Can view orders and update their status.
+- [x] Can delete orders.
 
+This is privilege is ideal for the manager(s).
 
+**3. Low privileged admin**
+Low privileged admins are the lowermost in the hierarchy and have the least amount of privileges. The have the following permission:
+
+- [ ] Can view, create, update, and delete admin users.
+- [ ] Can view, create, update, and delete products.
+- [x] Can view orders and update their status.
+- [ ] Can delete orders.
+
+This is privilege is ideal for the delivery-agent(s).
 
 **Here is a table dipicting the admin privileges for better clarity**
 
@@ -99,13 +120,40 @@ This is privilege is ideal for the owner(s) of the bussiness.
     <td>✔</td>
     <td>✔</td>
   </tr>
-  
+  <tr>
+    <td><b>Moderate</b></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td><b>Low</b></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>-</td>
+  </tr>
 </tbody>
 </table>
 
 ## ⚙ Tools and Technologies used
 
-#### [Client](https://github.com/poojitha/tomper-wear-ecommerce)
+#### [Client](https://github.com/varunKT001/tomper-wear-ecommerce)
 
 1. [React.js](https://reactjs.org/)
 2. [React-icons](https://react-icons.github.io/react-icons/)
@@ -114,13 +162,13 @@ This is privilege is ideal for the owner(s) of the bussiness.
 5. [Stripe](https://stripe.com/)
 6. [Formspree](https://formspree.io/)
 
-#### [Admin panel](https://github.com/poojitha/tomper-wear-ecommerce-admin)
+#### [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin)
 
 1. [React.js](https://reactjs.org/)
 2. [Chakra-ui](https://chakra-ui.com/)
 3. [React-icons](https://react-icons.github.io/react-icons/)
 
-#### [Backend](https://github.com/poojitha/tomper-wear-ecommerce-backend)
+#### [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
 
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](https://expressjs.com/)
@@ -139,11 +187,7 @@ This is privilege is ideal for the owner(s) of the bussiness.
    npm install
    ```
 
-3. Create a .env file inside the root folder and provide the following environment variables:
-
-   ```env
-   REACT_APP_BACKEND_HOST=<backend_url>
-   ```
+3. Create a `.env` file and copy-paste the contents of `.env.sample` in it.
 
 4. Start the dev server using :
 
@@ -159,24 +203,68 @@ This is privilege is ideal for the owner(s) of the bussiness.
    npm run build
    ```
 
-## 🤝 Test admin user credentials
+## 🤝 Test user credentials
 
-| **Username**  | **E-mail**                   | **Password**     |
-| ------------- | ---------------------------- | ---------------- |
-| Test Super    | test.super@tomperwear.com    | testsuper1212    ||
+| **E-mail**          | **Password** |
+| ------------------- | ------------ |
+| bob@tomperwear.com  | bob1212      |
+| test@tomperwear.com | test1212     |
 
-NOTE: These are just for testing purpose. Please don't:
+## 🙌 Open souce programs
 
-1. Update or delete an existing product.
-2. Delete product reviews.
-3. Create new admin users.
-4. Delete existing admin users.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://gssoc.girlscript.tech/">
+        <img src="./assets/GSSoC.png" alt="GSSoC'22">
+        <br/>
+        GirlScript Summer of Code 2022 (GSSoC'22)
+      </a>
+    </td> 
+  </tr>
+</table>
 
-For testing out things, you can create a new product, try out things and after that delete the product that you created.
+## 🙌 Other events
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/posts/aasf-iiitmg_github-winterprojects-learning-activity-6909474506340282368-GYq5">
+        <img src="./assets/winter-projects.png" width="350px" alt="GSSoC'22">
+        <img src="./assets/best-web-app.jpg" width="350px" alt="GSSoC'22">
+        <br/>
+        Awarded as the <b>Best Web App</b> in <b>Winter Projects</b> organized by <b>GDSC</b> and <b>AASF</b>, IIITM, Gwalior
+      </a>
+    </td> 
+  </tr>
+</table>
 
 ## 😎 Team Members
 
-1. poojitha
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/83509023?v=4" width="150px" alt="GSSoC'22" />
+      <br/>
+      Varun Kumar Tiwari
+      <br/>
+      2020IMT-112
+      <br/>
+      <a href="https://www.linkedin.com/in/varun-tiwari-454591178/">LinkedIn</a>
+      <a href="https://github.com/varunKT001">Github</a>
+    </td> 
+  </tr>
+</table>
+
+## 🙌 Thanks to all the contributors
+
+<a href="https://github.com/varunKT001/tomper-wear-ecommerce/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=varunKT001/tomper-wear-ecommerce" />
+</a>
+
+## ⚖ License
+
+[MIT](./LICENSE.md)
 
 <br>
 <br>
@@ -185,3 +273,4 @@ For testing out things, you can create a new product, try out things and after t
 <p align='center'>
 (If you liked the project, give it star 😃)
 </p>
+
