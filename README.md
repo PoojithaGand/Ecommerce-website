@@ -18,11 +18,9 @@ This is the frontend of TomperWear build with MERN stack and deployed with <a hr
 <img src='./assets/dpmain.png'>
 </p>
 
-## 🚀 Link to [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin), [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
+## 🚀 Link to [Admin panel](https://github.com/poojitha/tomper-wear-ecommerce-admin), [Backend](https://github.com/poojitha/tomper-wear-ecommerce-backend)
 
 ## 📷 Link to [Screenshots](./SCREENSHOTS.md)
-
-## 🎥 Link to [Video demo](https://youtu.be/5oGqxtSN0jY)
 
 ## 🧾 Description
 
@@ -60,25 +58,6 @@ Super privileged admins are the topmost in the hierarchy. They have the followin
 
 This is privilege is ideal for the owner(s) of the bussiness.
 
-**2. Moderate privileged admin**
-Moderate privileged admins comes below Super privileged admins. They have the following permissions:
-
-- [ ] Can view, create, update, and delete admin users.
-- [x] Can view, create, update, and delete products.
-- [x] Can view orders and update their status.
-- [x] Can delete orders.
-
-This is privilege is ideal for the manager(s).
-
-**3. Low privileged admin**
-Low privileged admins are the lowermost in the hierarchy and have the least amount of privileges. The have the following permission:
-
-- [ ] Can view, create, update, and delete admin users.
-- [ ] Can view, create, update, and delete products.
-- [x] Can view orders and update their status.
-- [ ] Can delete orders.
-
-This is privilege is ideal for the delivery-agent(s).
 
 **Here is a table dipicting the admin privileges for better clarity**
 
@@ -120,40 +99,12 @@ This is privilege is ideal for the delivery-agent(s).
     <td>✔</td>
     <td>✔</td>
   </tr>
-  <tr>
-    <td><b>Moderate</b></td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-  </tr>
-  <tr>
-    <td><b>Low</b></td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>-</td>
-  </tr>
 </tbody>
 </table>
 
 ## ⚙ Tools and Technologies used
 
-#### [Client](https://github.com/varunKT001/tomper-wear-ecommerce)
+#### [Client](https://github.com/poojitha/tomper-wear-ecommerce)
 
 1. [React.js](https://reactjs.org/)
 2. [React-icons](https://react-icons.github.io/react-icons/)
@@ -162,13 +113,13 @@ This is privilege is ideal for the delivery-agent(s).
 5. [Stripe](https://stripe.com/)
 6. [Formspree](https://formspree.io/)
 
-#### [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin)
+#### [Admin panel](https://github.com/poojitha/tomper-wear-ecommerce-admin)
 
 1. [React.js](https://reactjs.org/)
 2. [Chakra-ui](https://chakra-ui.com/)
 3. [React-icons](https://react-icons.github.io/react-icons/)
 
-#### [Backend](https://github.com/varunKT001/tomper-wear-ecommerce-backend)
+#### [Backend](https://github.com/poojitha/tomper-wear-ecommerce-backend)
 
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](https://expressjs.com/)
@@ -206,8 +157,7 @@ This is privilege is ideal for the delivery-agent(s).
 ## 🤝 Test user credentials
 
 | **E-mail**          | **Password** |
-| ------------------- | ------------ |
-| bob@tomperwear.com  | bob1212      |
+| ------------------- | ------------ | 
 | test@tomperwear.com | test1212     |
 
 ## 🙌 Open souce programs
@@ -246,26 +196,14 @@ This is privilege is ideal for the delivery-agent(s).
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/83509023?v=4" width="150px" alt="GSSoC'22" />
       <br/>
-      Varun Kumar Tiwari
+      poojitha
       <br/>
-      2020IMT-112
+
       <br/>
-      <a href="https://www.linkedin.com/in/varun-tiwari-454591178/">LinkedIn</a>
-      <a href="https://github.com/varunKT001">Github</a>
+
     </td> 
   </tr>
 </table>
-
-## 🙌 Thanks to all the contributors
-
-<a href="https://github.com/varunKT001/tomper-wear-ecommerce/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=varunKT001/tomper-wear-ecommerce" />
-</a>
-
-## ⚖ License
-
-[MIT](./LICENSE.md)
-
 <br>
 <br>
 <br>
