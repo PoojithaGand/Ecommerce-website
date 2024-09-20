@@ -46,7 +46,8 @@ Users shopping through this platform enjoys following features:
 
 The admin panel of TomperWear contains  one admin:
 
-**Super privileged admin**
+**Super privileged admin**:
+
 Super privileged admins are the topmost in the hierarchy. They have the following permissions:
 
 - [x] Can view, create, update, and delete admin users.
