@@ -18,8 +18,6 @@ This is the frontend of TomperWear build with MERN stack and deployed with <a hr
 <img src='./assets/dpmain.png'>
 </p>
 
-## 🚀 Link to [Admin panel](https://github.com/poojitha/tomper-wear-ecommerce-admin), [Backend](https://github.com/poojitha/tomper-wear-ecommerce-backend)
-
 ## 📷 Link to [Screenshots](./SCREENSHOTS.md)
 
 ## 🧾 Description
@@ -46,9 +44,9 @@ Users shopping through this platform enjoys following features:
 
 #### Admin
 
-The admin panel of TomperWear contains three classes of admins:
+The admin panel of TomperWear contains  one admin:
 
-**1. Super privileged admin**
+**Super privileged admin**
 Super privileged admins are the topmost in the hierarchy. They have the following permissions:
 
 - [x] Can view, create, update, and delete admin users.
@@ -129,23 +127,6 @@ This is privilege is ideal for the owner(s) of the bussiness.
 6. [Bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
 7. [Stripe](https://stripe.com/)
 
-## 🛠 Installation and setup
-
-1. Clone the repo to your local machine.
-2. Install the required dependency for server using :
-
-   ```javascript
-   npm install
-   ```
-
-3. Create a `.env` file and copy-paste the contents of `.env.sample` in it.
-
-4. Start the dev server using :
-
-   ```javascript
-   npm start
-   ```
-
 ## 🏎 Creating production built
 
 1. Create a production ready react app using the command :
@@ -153,6 +134,17 @@ This is privilege is ideal for the owner(s) of the bussiness.
    ```javascript
    npm run build
    ```
+ ## 🤝 Test admin user credentials 
+ 
+ |**username**|**E-Mail**|**Password**|
+ 
+ |Test super  |test.super@tomperwear.com|testsuper1212||
+
+ NOTE:These are just for testing purpose.Please don't:
+ 1.Update or delete an existing product.
+ 2.Delete product reviews.
+ 3.Create new admin users.
+ 4.Delete existing admin users.
 
 ## 🤝 Test user credentials
 
