@@ -137,9 +137,9 @@ This is privilege is ideal for the owner(s) of the bussiness.
    ```
  ## 🤝 Test admin user credentials 
  
- |**username**|**E-Mail**|**Password**|
+ | **username** | **E-Mail** | **Password** |
  
- |Test super  |test.super@tomperwear.com| testsuper1212||
+ | Test super  | test.super@tomperwear.com | testsuper1212||
 
  NOTE:These are just for testing purpose.Please don't:
  
