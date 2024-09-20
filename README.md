@@ -160,48 +160,15 @@ This is privilege is ideal for the owner(s) of the bussiness.
 | ------------------- | ------------ | 
 | test@tomperwear.com | test1212     |
 
-## 🙌 Open souce programs
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://gssoc.girlscript.tech/">
-        <img src="./assets/GSSoC.png" alt="GSSoC'22">
-        <br/>
-        GirlScript Summer of Code 2022 (GSSoC'22)
-      </a>
-    </td> 
-  </tr>
-</table>
-
-## 🙌 Other events
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/posts/aasf-iiitmg_github-winterprojects-learning-activity-6909474506340282368-GYq5">
-        <img src="./assets/winter-projects.png" width="350px" alt="GSSoC'22">
-        <img src="./assets/best-web-app.jpg" width="350px" alt="GSSoC'22">
-        <br/>
-        Awarded as the <b>Best Web App</b> in <b>Winter Projects</b> organized by <b>GDSC</b> and <b>AASF</b>, IIITM, Gwalior
-      </a>
-    </td> 
-  </tr>
-</table>
 
 ## 😎 Team Members
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/83509023?v=4" width="150px" alt="GSSoC'22" />
       <br/>
       poojitha
       <br/>
-
       <br/>
-
-    </td> 
   </tr>
 </table>
 <br>
