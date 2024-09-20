@@ -138,9 +138,10 @@ This is privilege is ideal for the owner(s) of the bussiness.
  
  |**username**|**E-Mail**|**Password**|
  
- |Test super  |test.super@tomperwear.com|testsuper1212||
+ |Test super  |test.super@tomperwear.com| testsuper1212||
 
  NOTE:These are just for testing purpose.Please don't:
+ 
  1.Update or delete an existing product.
  2.Delete product reviews.
  3.Create new admin users.
