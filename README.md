@@ -143,8 +143,11 @@ This is privilege is ideal for the owner(s) of the bussiness.
  NOTE:These are just for testing purpose.Please don't:
  
  1.Update or delete an existing product.
+ 
  2.Delete product reviews.
+ 
  3.Create new admin users.
+ 
  4.Delete existing admin users.
 
 ## 🤝 Test user credentials
